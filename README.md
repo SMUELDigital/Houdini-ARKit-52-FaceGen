@@ -27,7 +27,7 @@
 
 
 
-# Houdini ARKit 52 FaceGen Plugin
+# CONCEPT: Houdini ARKit 52 FaceGen Plugin
 
 ## Files
 - `ARKit_FaceGen.hda`: Main digital asset for blendshape generation
