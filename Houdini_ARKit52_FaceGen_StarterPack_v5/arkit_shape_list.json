@@ -1,0 +1,314 @@
+{
+  "browDown_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "browDown_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "browInnerUp": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "browOuterUp_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "browOuterUp_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "cheekPuff": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "cheekSquint_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "cheekSquint_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeBlink_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeBlink_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookDown_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookDown_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookIn_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookIn_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookOut_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookOut_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookUp_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeLookUp_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeSquint_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeSquint_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeWide_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "eyeWide_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "jawForward": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "jawLeft": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "jawOpen": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "jawRight": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthClose": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthDimple_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthDimple_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthFrown_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthFrown_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthFunnel": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthLeft": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthLowerDown_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthLowerDown_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthPress_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthPress_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthPucker": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthRight": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthRollLower": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthRollUpper": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthShrugLower": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthShrugUpper": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthSmile_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthSmile_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthStretch_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthStretch_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthUpperUp_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "mouthUpperUp_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "noseSneer_L": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "noseSneer_R": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  },
+  "tongueOut": {
+    "region": "auto",
+    "type": "offset",
+    "axis": "Y",
+    "amount": 0.05
+  }
+}
